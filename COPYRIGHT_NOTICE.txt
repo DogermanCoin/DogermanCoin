@@ -1,0 +1,68 @@
+# DOGERMANCOIN — Copyright & Attribution Notice
+
+**DOGERMANCOIN** is an open-source project derived from the original works of  
+[**Bitcoin Core**](https://github.com/bitcoin/bitcoin) and [**Litecoin**](https://github.com/litecoin-project/litecoin).  
+This project acknowledges and respects the rights of all contributors, publishers,  
+and maintainers involved in the development and distribution of these cryptocurrencies.
+
+---
+
+## Origins and Credits
+
+- **Bitcoin Core**  
+  Created by *Satoshi Nakamoto* and further developed by the global open-source community.  
+
+- **Litecoin**  
+  Initiated by *Charlie Lee* and extended by many contributors across the open-source ecosystem.  
+
+- **Open-Source Community**  
+  Countless developers, researchers, and organizations who contributed through  
+  [GitHub](https://github.com) and other platforms.  
+
+---
+
+## Acknowledgment
+
+We hereby **recognize and respect** the efforts of all individuals and teams  
+who contributed to **Bitcoin**, **Litecoin**, and related works that enabled the  
+creation of **DOGERMANCOIN**.
+
+This project does **not claim exclusive ownership** of the underlying software,  
+but stands on the shoulders of the Bitcoin and Litecoin communities, while  
+introducing its own unique features and modifications.
+
+---
+
+## Licensing — MIT License
+
+The DOGERMANCOIN codebase contains and extends works originally licensed under the **MIT License**.  
+The original copyright notices are preserved below:
+
+```text
+// Distributed under the MIT software license, see the accompanying
+// file COPYING or http://www.opensource.org/licenses/mit-license.php.
+
+// Copyright (c) 2009-2010 Satoshi Nakamoto
+// Copyright (c) 2009-2021 The Bitcoin Core developers
+// Copyright (c) 2009-2021 Bitcoin Developers
+// Copyright (c) 2011-2021 The Litecoin Core developers
+
+The MIT License (MIT)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
