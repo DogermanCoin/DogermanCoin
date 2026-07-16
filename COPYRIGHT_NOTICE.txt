@@ -1,53 +1,36 @@
-# DOGERMANCOIN — Copyright & Attribution Notice
+# DGM (formerly DOGERMANCOIN) — Copyright & Attribution Notice
 
-**DOGERMANCOIN** is an open-source project derived from the original works of  
-[**Bitcoin Core**](https://github.com/bitcoin/bitcoin) and [**Litecoin**](https://github.com/litecoin-project/litecoin).  
-This project acknowledges and respects the rights of all contributors, publishers,  
-and maintainers involved in the development and distribution of these cryptocurrencies.
+**DGM** (previously known as **DOGERMANCOIN**) is an open-source, custom-built cryptocurrency project. While the network has been rebranded to **DGM**, the underlying architecture and core mechanics remain rooted in the original **DOGERMANCOIN** design. 
+
+This project is an independently written codebase developed from scratch and is not a fork of Bitcoin, Litecoin, or any other existing blockchain. We respect and acknowledge the foundational principles established by the pioneers of the decentralized ecosystem.
 
 ---
 
-## Origins and Credits
+## Conceptual Inspiration
 
-- **Bitcoin Core**  
-  Created by *Satoshi Nakamoto* and further developed by the global open-source community.  
+While the codebase is entirely original and custom-coded, the conceptual framework of DGM draws inspiration from:
 
-- **Litecoin**  
-  Initiated by *Charlie Lee* and extended by many contributors across the open-source ecosystem.  
+- **The Bitcoin Whitepaper**  
+  The revolutionary concept of decentralized peer-to-peer electronic cash introduced by *Satoshi Nakamoto*.
 
-- **Open-Source Community**  
-  Countless developers, researchers, and organizations who contributed through  
-  [GitHub](https://github.com) and other platforms.  
+- **The Global Open-Source Blockchain Community**  
+  The collaborative efforts of developers, researchers, and cryptography enthusiasts who have shaped the blockchain space through platforms like [GitHub](https://github.com).
 
 ---
 
 ## Acknowledgment
 
-We hereby **recognize and respect** the efforts of all individuals and teams  
-who contributed to **Bitcoin**, **Litecoin**, and related works that enabled the  
-creation of **DOGERMANCOIN**.
+We hereby **recognize and respect** the contributions of the early blockchain developers whose theoretical work paved the way for new and independent implementations like **DGM**.
 
-This project does **not claim exclusive ownership** of the underlying software,  
-but stands on the shoulders of the Bitcoin and Litecoin communities, while  
-introducing its own unique features and modifications.
+This project is a standalone development, created to introduce its own unique architecture, consensus mechanisms, and features, while remaining committed to the open-source philosophy.
 
 ---
 
 ## Licensing — MIT License
 
-The DOGERMANCOIN codebase contains and extends works originally licensed under the **MIT License**.  
-The original copyright notices are preserved below:
-
+The DGM codebase is released under the **MIT License**.
 ```text
-// Distributed under the MIT software license, see the accompanying
-// file COPYING or http://www.opensource.org/licenses/mit-license.php.
-
-// Copyright (c) 2009-2010 Satoshi Nakamoto
-// Copyright (c) 2009-2021 The Bitcoin Core developers
-// Copyright (c) 2009-2021 Bitcoin Developers
-// Copyright (c) 2011-2021 The Litecoin Core developers
-
-The MIT License (MIT)
+Copyright (c) 2026 DGM Developers
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
